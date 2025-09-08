@@ -49,7 +49,7 @@ A **modern, responsive web application** for tracking Indian trains in real-time
 ## How to Run the Application
 
 ### Method 1: Direct File Opening
-1. Navigate to the project directory: `C:\Users\Abhilash\where-is-my-train-app`
+1. Download or clone the repository to your local machine.
 2. Double-click on `index.html` to open it in your default web browser
 3. The app will load and you can start using it immediately
 
@@ -58,7 +58,7 @@ Since the app uses external CDN resources, running it through a local server pro
 
 ```powershell
 # If you have Python installed
-cd "C:\Users\Abhilash\where-is-my-train-app"
+cd "WHERE-IS-MY-TRAIN-APP"
 python -m http.server 8000
 # Then open http://localhost:8000 in your browser
 
@@ -67,5 +67,5 @@ npx serve .
 # Follow the URL provided in the terminal
 
 # Using PowerShell (Windows 10+)
-cd "C:\Users\Abhilash\where-is-my-train-app"
+cd "WHERE-IS-MY-TRAIN-APP"
 Start-Process "index.html"
