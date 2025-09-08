@@ -21,7 +21,6 @@ A **modern, responsive web application** for tracking Indian trains in real-time
 |--------------|------------|---------------------|
 | ![Default](images/ocean-blue-theme.png) | ![Dark](images/dark-mode-theme.png) | ![Indian Railway](images/indian-railway-theme.png) |
 
-*Screenshots will be added after GitHub upload*
 
 ## ✨ Features
 
@@ -29,8 +28,6 @@ A **modern, responsive web application** for tracking Indian trains in real-time
 - **6 Beautiful Themes**: Ocean Blue, Dark Mode, Indian Railway, Sunset Orange, Forest Green, Royal Purple
 - **Theme Memory**: Remembers your preferred theme
 - **Smooth Transitions**: Seamless theme switching
-
-### Core Functionality
 
 ### Core Functionality
 - **Train Search**: Search trains by number (12002, 12301, 12951)
