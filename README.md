@@ -13,7 +13,7 @@ A **modern, responsive web application** for tracking Indian trains in real-time
 
 ## 🚀 Live Demo
 
-**[Try the App Live!](https://ShubhaM180405.github.io/where-is-my-train-app)**
+**[Try the App Live!](https://shubham180405.github.io/WHERE-IS-MY-TRAIN-APP/)**
 
 ## 📱 Screenshots
 
