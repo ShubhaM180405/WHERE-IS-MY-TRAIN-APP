@@ -19,7 +19,7 @@ A **modern, responsive web application** for tracking Indian trains in real-time
 
 | Default Theme | Dark Theme | Indian Railway Theme |
 |--------------|------------|---------------------|
-| ![Default](https://via.placeholder.com/300x200?text=Ocean+Blue+Theme) | ![Dark](https://via.placeholder.com/300x200?text=Dark+Mode) | ![Indian](https://via.placeholder.com/300x200?text=Indian+Railway) |
+| ![Default](images/ocean-blue-theme.png) | ![Dark](images/dark-mode-theme.png) | ![Indian Railway](images/indian-railway-theme.png) |
 
 *Screenshots will be added after GitHub upload*
 
